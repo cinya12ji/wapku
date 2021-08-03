@@ -1,5 +1,5 @@
 User-agent: *
 Allow: 
 
-Sitemap: https://wapku.herokuapp.com/host-https-stafalagu.wapku.net/sitemap.xml
+Sitemap: https://wapku.herokuapp.com/host-http-stafalagu.wapku.net/sitemap.xml
 Sitemap: https://wapku.herokuapp.com/sitemap.xml
